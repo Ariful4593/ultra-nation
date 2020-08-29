@@ -1,0 +1,10 @@
+.country-item img{
+    width: 150px;
+    height: 100px;
+}
+.country-item{
+    text-align:center;
+    border: 2px solid lightslategrey;
+    margin: 20px;
+    padding: 20px;
+}
